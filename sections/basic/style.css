@@ -1,0 +1,37 @@
+html,
+body {
+<<<<<<< HEAD
+    color: #555;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin: 0;
+}
+
+main {
+    margin: 3rem auto;
+    max-width: 90vw;
+    width: 50ch;
+}
+
+h1 {
+    color: #333;
+}
+
+
+=======
+  color: #555;
+  font-family: sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+main {
+  margin: 3rem auto;
+  max-width: 90vw;
+  width: 50ch;
+}
+
+h1 {
+  color: #333;
+}
+>>>>>>> 620c81188914d61cb0132ae8e118e9c34dc1ba79
